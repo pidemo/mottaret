@@ -28,6 +28,11 @@ concat-map@0.0.1:
   resolved "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
+esbuild-darwin-64@0.14.54:
+  version "0.14.54"
+  resolved "https://registry.npmjs.org/esbuild-darwin-64/-/esbuild-darwin-64-0.14.54.tgz"
+  integrity sha512-jtdKWV3nBviOd5v4hOpkVmpxsBy90CGzebpbO9beiqUYVMBtSc0AL9zGftFuBon7PNDcdvNCEuQqw2x0wP9yug==
+
 esbuild-darwin-arm64@0.14.54:
   version "0.14.54"
   resolved "https://registry.npmjs.org/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.54.tgz"
